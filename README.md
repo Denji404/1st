@@ -8,7 +8,7 @@ https://youtu.be/ooru4pyEv1I
 
 ### Try the game here:
 
-https://codingwith-adam.github.io/dino-game/index.html
+https://github.com/Denji404/1st/blob/main/image
 
 (On a mobile device play in landscape orientation for the best experience)
 

@@ -8,7 +8,7 @@ https://youtu.be/ooru4pyEv1I
 
 ### Try the game here:
 
-https://github.com/Denji404/1st/blob/main/image
+https://denji404.github.io/1st/
 
 (On a mobile device play in landscape orientation for the best experience)
 
